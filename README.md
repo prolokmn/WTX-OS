@@ -1,6 +1,6 @@
 # WTX-OS
 
-WTX-OS is a FREE and open scorce OS.
+WTX-OS is a FREE and open source OS.
 
 But there are rules hen coping the os and claming it.
 
